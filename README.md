@@ -1,0 +1,4 @@
+- 👋 Hi, I’m sarcasmsc
+- 👀 I’m interested in data science, analytics, computer science, software development
+- 🌱 I’m currently learning python
+- 📫 How to reach me sarcasmsc@gmail.com
