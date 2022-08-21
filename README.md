@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sarcasmsc
+- 👋 Hi, I’m Sterling
 - 👀 I’m interested in data science, analytics, computer science, software development
 - 🌱 I’m currently learning python
 - 📫 You can reach me at sarcasmsc@gmail.com
